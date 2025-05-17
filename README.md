@@ -67,8 +67,8 @@ Welcome to my GitHub profile! I'm Rahul Kumar, a Data Science and Web Developmen
 
 [![Career Essentials in Generative AI](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-%20?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/learning/certificates/fbdc20aadfbld35ddc46c8730fd6e56ff5128255dbfe07dc5a50fd606c65308) [![Python for Machine Learning](https://img.shields.io/badge/Python%20for%20Machine%20Learning-Great%20Learning-%20?style=flat&logo=python&color=blue)](https://verify.mygreatlearning.com/VFIKVOSM) [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/professional-cert/GK6DRXDWP3OF) [![AWS Fundamentals](https://img.shields.io/badge/AWS%20Fundamentals-Specialization-%20?style=flat&logo=coursera&color=blue)](https://coursera.org/verify/specialization/PQRWJM0NMUPE) [![Accounting Fundamentals](https://img.shields.io/badge/Accounting%20Fundamentals-TCS%20iON-%20?style=flat&logo=tcs&color=blue)](https://www.tcsion.com/)
 
-## Portfolio Website
-[![Static Badge](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+## Portfolio Website 
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123rgatty@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sukhmansingh1612](https://www.linkedin.com/in/rahul-kumar-0a4645326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KumarRahul75023)
