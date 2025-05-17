@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rahulkumargit1/README.md/blob/main/GITHUB.jpg" alt="Rahul Kumar's GitHub Cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
+  <img src="https://github.com/rahulkumargit1/rahulkumargit1/blob/main/GITHUB.jpg" alt="Rahul Kumar's GitHub Cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
 </div>
 
 # Rahul Kumar
