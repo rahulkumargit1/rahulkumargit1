@@ -73,4 +73,4 @@ Welcome to my GitHub profile! I'm Rahul Kumar, a Data Science and Web Developmen
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123rgatty@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sukhmansingh1612](https://www.linkedin.com/in/rahul-kumar-0a4645326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KumarRahul75023)
 
-![Snake animation](https://github.com/rahulkumargit1/README.md/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rahulkumargit1/rahulkumargit1/blob/main/Assets/github-contribution-grid-snake.svg)
