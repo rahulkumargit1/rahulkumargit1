@@ -13,12 +13,15 @@ Welcome to my GitHub profile! I'm Rahul Kumar, a Data Science and Web Developmen
 
 ## Top Repositories
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1; min-width: 300px; max-width: 300px;"><a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite">
+  <div style="flex: 1; min-width: 300px; max-width: 300px;">
+    <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Cryptocurrency-Analysis-Suite" alt="Cryptocurrency-Analysis-Suite" />
-    <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=acne-classification-system" alt="acne-classification-system" />
     </a>
+    <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Telco-Customer-Churn-Prediction" alt="Telco-Customer-Churn-Prediction" />
     </a>
   </div>
+</div>
  
 
 ## IDE
