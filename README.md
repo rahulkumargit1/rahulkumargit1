@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Rahul Kumar, a Data Science and Web Developmen
     <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Cryptocurrency-Analysis-Suite" alt="Cryptocurrency-Analysis-Suite" />
     </a>
-    <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction">
+    <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Telco-Customer-Churn-Prediction" alt="Telco-Customer-Churn-Prediction" />
     </a>
   </div>
