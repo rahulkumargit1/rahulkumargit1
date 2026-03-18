@@ -239,27 +239,69 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <br/>
 
+<!-- Row 1: Stats + Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
 </div>
 
 <br/>
 
+<!-- Row 2: Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=0891b2&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=a78bfa" width="62%" />
 </div>
 
 <br/>
 
+<!-- Row 3: Summary Cards (4 detailed cards) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumargit1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumargit1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumargit1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumargit1&theme=tokyonight&utcOffset=+5.5" />
+</div>
+
+<br/>
+
+<!-- Row 4: Full profile details bar -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumargit1&theme=tokyonight" width="100%" />
 </div>
 
 <br/>
 
+<!-- Row 5: Activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=5b21b6&point=0891b2&area=true&area_color=1a0a4a" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## ⏱️ Coding Time (WakaTime)
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulkumargit1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=0891b2&layout=compact&langs_count=10" width="70%" />
+</div>
+
+<div align="center">
+  <sub>⚙️ <i>Connect your <a href="https://wakatime.com">WakaTime</a> account and add the GitHub secret to show live coding time stats here.</i></sub>
+</div>
+
+<br/>
+
+---
+
+## 🧬 Detailed GitHub Metrics
+
+<br/>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/rahulkumargit1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&repositories=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&introduction.title=true&config.timezone=Asia%2FKolkata&config.display=large" width="100%" />
 </div>
 
 <br/>
@@ -283,8 +325,6 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 </div>
 
 <br/>
-
----
 
 ---
 
