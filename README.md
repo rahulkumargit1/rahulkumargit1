@@ -32,8 +32,6 @@
 
 ## &nbsp;⚡ About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
 I'm a final-year CS student from Mangalore, Karnataka — the kind of person who turns weekend side projects into full production systems. I care about building things that are actually useful: clean APIs, thoughtful UIs, and AI that does real work rather than impressive demos.
 
 I've shipped a photo management platform backed by AWS Rekognition, a self-hosted WhatsApp AI assistant running a local LLM on EC2, and a range of ML pipelines that go end-to-end. I like systems that are lean, fast, and genuinely solve something.
@@ -175,9 +173,14 @@ Currently wrapping up my B.E. (CGPA 7.80) and actively looking for full-time rol
 ## &nbsp;📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="65%" />
 </div>
 
 <br/>
