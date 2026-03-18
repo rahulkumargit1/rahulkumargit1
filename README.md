@@ -280,34 +280,6 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
-## ⏱️ Coding Time (WakaTime)
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulkumargit1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=0891b2&layout=compact&langs_count=10" width="70%" />
-</div>
-
-<div align="center">
-  <sub>⚙️ <i>Connect your <a href="https://wakatime.com">WakaTime</a> account and add the GitHub secret to show live coding time stats here.</i></sub>
-</div>
-
-<br/>
-
----
-
-## 🧬 Detailed GitHub Metrics
-
-<br/>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/rahulkumargit1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&repositories=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&introduction.title=true&config.timezone=Asia%2FKolkata&config.display=large" width="100%" />
-</div>
-
-<br/>
-
----
-
 ## 🏅 Certifications
 
 <br/>
