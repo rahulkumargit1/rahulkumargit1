@@ -31,6 +31,19 @@
 
 <br/>
 
+<!-- HIGHLIGHTS -->
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public%20Repos-25-5b21b6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Projects](https://img.shields.io/badge/Projects%20Shipped-10%2B-0891b2?style=for-the-badge&logo=rocketdotchat&logoColor=white&labelColor=0d1117)
+![Live](https://img.shields.io/badge/Live%20Systems-3-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
+![Certs](https://img.shields.io/badge/Certifications-5-f59e0b?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Commits%20in%202026-102-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+
+</div>
+
+<br/>
+
 ---
 
 ## ⚡ About Me
@@ -158,6 +171,8 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
   <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
   <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
   <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Telco-Customer-Churn-Prediction-and-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
 </div>
 
 <br/>
@@ -264,6 +279,45 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 | ☁️ | AWS Fundamentals Specialization | AWS / Coursera | [→ Verify](https://coursera.org/verify/specialization/PQRWJM0NMUPE) |
 | 🐍 | Python for Machine Learning | Great Learning | [→ Verify](https://verify.mygreatlearning.com/VFIKVOSM) |
 | 📑 | Accounting Fundamentals | TCS iON | TCS Portal |
+
+</div>
+
+<br/>
+
+---
+
+---
+
+## 💬 Dev Quote
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<br/>
+
+<div align="center">
+
+I'm actively looking for full-time roles in **Full-Stack**, **AI/ML**, or **Cloud Engineering**.<br/>
+If you're building something interesting or have a role that fits — my inbox is open.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-0a4645326)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumar.git123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+
+<br/>
+
+> *Open to relocating. Open to remote. Just give me a good problem to solve.*
 
 </div>
 
