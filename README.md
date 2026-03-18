@@ -1,79 +1,366 @@
 <div align="center">
-  <img src="https://github.com/rahulkumargit1/rahulkumargit1/blob/main/GITHUB.jpg" alt="Rahul Kumar's GitHub Cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
 </div>
-
-# Rahul Kumar
-### CSE Student | Data Science and Web Development Enthusiast | Eager To Explore New Technologies
-
-Welcome to my GitHub profile! I'm Rahul Kumar, a Data Science and Web Development enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumargit1&theme=dracula" alt="Rahul Kumar's GitHub Profile Details" />
+
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+%40+SDIT+Mangalore;Full-Stack+%2B+AI%2FML+Developer;Building+tools+that+actually+ship+%F0%9F%9A%80;Open+to+work+%E2%80%94+hire+me!)
+
+](https://git.io/typing-svg)
+
 </div>
 
-## Top Repositories
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1; min-width: 300px; max-width: 300px;">
-    <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Cryptocurrency-Analysis-Suite" alt="Cryptocurrency-Analysis-Suite" />
-    </a>
-    <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&theme=dark&hide_border=true&repo=Telco-Customer-Churn-Prediction-and-Analysis" alt="Telco-Customer-Churn-Prediction-and-Analysis" />
+<br/>
+
+<div align="center">
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/rahul-kumar-0a4645326)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:rahulkumar.git123@gmail.com)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[
+
+![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+](https://x.com/KumarRahul75023)
+[
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahulkumargit1&style=for-the-badge&color=blueviolet&label=Profile+Views)
+
+](https://github.com/rahulkumargit1)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name       : Rahul Kumar
+location   : Mangalore, Karnataka, India
+education  : B.E. Computer Science — SDIT (2025 batch) | CGPA: 7.80
+currently  : Final year student, actively seeking entry-level roles
+focus      : Full-Stack Development · AI/ML · Cloud (AWS) · Data Science
+building   : PhotoVault · StreakFlow · JARVIS WhatsApp AI Assistant
+contact    : rahulkumar.git123@gmail.com · +91 8951690899
+` `` ` (remove the spaces between backticks)
+
+> *I build ambitious projects, ship them, and keep iterating. Always learning — always building.*
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|------------|-------|
+| [**PhotoVault**](https://github.com/rahulkumargit1/photovault) | Full-stack photo management app with AI face recognition, async job queues, editorial UI | Node.js · React · AWS S3 · Rekognition · PostgreSQL · Redis |
+| [**Cryptocurrency-Analysis-Suite**](https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite) | Real-time crypto analytics dashboard with trend detection and portfolio insights | Python · Pandas · Plotly |
+| [**Sync-Minimal-App**](https://github.com/rahulkumargit1/Sync-Minimal-App) | Clean, minimal productivity sync application | React · Node.js |
+| [**VIRE**](https://github.com/rahulkumargit1/VIRE) | AI-powered virtual interview & resume evaluator platform | Python · ML |
+| [**Telco-Churn-Prediction**](https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis) | End-to-end ML pipeline predicting customer churn with feature analysis | Python · Scikit-learn · Pandas |
+| [**FIFA-Rating-Prediction**](https://github.com/rahulkumargit1/FIFA-Player-Rating-Prediction-with-Linear-Regression) | Linear regression model predicting FIFA player ratings | Python · NumPy · Matplotlib |
+| [**Loan-Approval-Prediction**](https://github.com/rahulkumargit1/Loan-Approval-Prediction-and-Analysis) | Classification pipeline for loan approval outcomes | Python · Scikit-learn |
+| [**Acne-Classification-System**](https://github.com/rahulkumargit1/acne-classification-system) | Computer vision model classifying acne severity from skin images | Python · TensorFlow · OpenCV |
+| [**Krypt**](https://github.com/rahulkumargit1/Krypt) | Web3 crypto transaction app on the Ethereum blockchain | React · Solidity · Hardhat |
+| [**RoboticArmProject**](https://github.com/rahulkumargit1/RoboticArmProject) | Real-time robotic arm controller using computer vision for gesture tracking | Python · OpenCV · C++ |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/rahulkumargit1/photovault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
 </a>
-  </div>
+<a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/rahulkumargit1/VIRE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Telco-Customer-Churn-Prediction-and-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+</a>
+
 </div>
- 
 
-## IDE
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![DevC++](https://img.shields.io/badge/DevC++-00599C?style=for-the-badge&logo=dev-c-plus-plus&logoColor=white)](https://www.bloodshed.net/)
-[![Code::Blocks](https://img.shields.io/badge/Code::Blocks-010101?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+---
 
-## Skills
+## 🛠️ Tech Stack
 
 ### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Libraries
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![STL (C++)](https://img.shields.io/badge/STL%20(C++)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/standard_library)
-[![Java Collections](https://img.shields.io/badge/Java%20Collections-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+### Frontend & Mobile
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
+
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+
+### Backend & APIs
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+### AI / ML / Data Science
+
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+### Databases & Caching
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+
+### Cloud & DevOps
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
+
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+
+
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+
+### Tools & IDEs
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumargit1&theme=dracula" alt="Rahul Kumar's Repos by Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumargit1&theme=dracula" alt="Rahul Kumar's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+
 </div>
 
-### Frameworks
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![GLUT32](https://img.shields.io/badge/GLUT32-FF4D00?style=for-the-badge&logo=opengl&logoColor=white)](https://www.opengl.org/resources/libraries/glut/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<div align="center">
 
-## Certifications
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
-[![Career Essentials in Generative AI](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-%20?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/learning/certificates/fbdc20aadfbld35ddc46c8730fd6e56ff5128255dbfe07dc5a50fd606c65308) [![Python for Machine Learning](https://img.shields.io/badge/Python%20for%20Machine%20Learning-Great%20Learning-%20?style=flat&logo=python&color=blue)](https://verify.mygreatlearning.com/VFIKVOSM) [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/professional-cert/GK6DRXDWP3OF) [![AWS Fundamentals](https://img.shields.io/badge/AWS%20Fundamentals-Specialization-%20?style=flat&logo=coursera&color=blue)](https://coursera.org/verify/specialization/PQRWJM0NMUPE) [![Accounting Fundamentals](https://img.shields.io/badge/Accounting%20Fundamentals-TCS%20iON-%20?style=flat&logo=tcs&color=blue)](https://www.tcsion.com/)
+</div>
 
-## Portfolio Website 
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+<div align="center">
 
-## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123rgatty@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sukhmansingh1612](https://www.linkedin.com/in/rahul-kumar-0a4645326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KumarRahul75023)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumargit1&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Verify |
+|------------|--------|--------|
+| Career Essentials in Generative AI | Microsoft & LinkedIn | [View](https://www.linkedin.com/learning/certificates/fbdc20aadfbld35ddc46c8730fd6e56ff5128255dbfe07dc5a50fd606c65308) |
+| Google Data Analytics Professional Certificate | Google / Coursera | [View](https://www.coursera.org/account/accomplishments/professional-cert/GK6DRXDWP3OF) |
+| AWS Fundamentals Specialization | AWS / Coursera | [View](https://coursera.org/verify/specialization/PQRWJM0NMUPE) |
+| Python for Machine Learning | Great Learning | [View](https://verify.mygreatlearning.com/VFIKVOSM) |
+| Accounting Fundamentals | TCS iON | TCS Portal |
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+[
+
+![Portfolio Website](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-Click%20Here-a78bfa?style=for-the-badge)
+
+](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+
+*"Build things that matter. Keep shipping."*
+
+</div>
+
+<div align="center">
+
+
 
 ![Snake animation](https://github.com/rahulkumargit1/rahulkumargit1/blob/main/Assets/github-contribution-grid-snake.svg)
+
+
+
+</div>
