@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-0a4645326)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumar.git123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[![Portfolio](https://master.d13kkfmbue8ihx.amplifyapp.com/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarRahul75023)
 [![Profile Views](https://komarev.com/ghpvc/?username=rahulkumargit1&style=for-the-badge&color=5b21b6&label=VIEWS)](https://github.com/rahulkumargit1)
 
