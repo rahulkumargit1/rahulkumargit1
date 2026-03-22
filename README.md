@@ -1,6 +1,3 @@
-Here is the full, complete code with all the links fixed. You can select all of this and paste it directly into your GitHub profile's [README.md](cci:7://file:///d:/rahul-kumar-portfolio/rahul-portfolio/README.md:0:0-0:0)!
-
-```markdown
 <!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,30:0d0630,60:1a0a4a,100:03001C&height=260&section=header&text=Rahul%20Kumar&fontSize=85&fontColor=E2D9F3&fontAlignY=44&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%E2%80%94%20I%20build%20systems%20that%20ship.&descSize=16&descAlignY=64&descColor=7c6fcd&animation=twinkling" width="100%" />
@@ -359,4 +356,3 @@ If you're building something interesting or have a role that fits — my inbox i
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahulkumargit1/rahulkumargit1/main/Assets/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
-```
