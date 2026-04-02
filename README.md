@@ -1,4 +1,10 @@
-﻿<div align="center">`n  <img src="banner.jpeg" width="100%" style="border-radius: 10px;" alt="Starry Night Banner" />`n</div>`n`n<!-- HEADER -->
+<div align="center">
+  <img src="starry_night_banner.png" width="100%" alt="Starry Night Banner" />
+</div>
+
+<br/>
+
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,30:0d0630,60:1a0a4a,100:03001C&height=260&section=header&text=Rahul%20Kumar&fontSize=85&fontColor=E2D9F3&fontAlignY=44&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%E2%80%94%20I%20build%20systems%20that%20ship.&descSize=16&descAlignY=64&descColor=7c6fcd&animation=twinkling" width="100%" />
 </div>
@@ -46,29 +52,29 @@
 
 ---
 
-## âš¡ About Me
+## ⚡ About Me
 
 ```typescript
 const rahul: Developer = {
-  location   : "Mangalore, Karnataka, India ðŸ‡®ðŸ‡³",
-  education  : "B.E. Computer Science â€” SDIT Mangalore | 2025 | CGPA: 7.80",
-  building   : ["PhotoVault â€” AWS S3 + Rekognition + BullMQ", "StreakFlow â€” React Native",  "JARVIS â€” Self-hosted LLM on EC2"],
+  location   : "Mangalore, Karnataka, India 🇮🇳",
+  education  : "B.E. Computer Science — SDIT Mangalore | 2025 | CGPA: 7.80",
+  building   : ["PhotoVault — AWS S3 + Rekognition + BullMQ", "StreakFlow — React Native",  "JARVIS — Self-hosted LLM on EC2"],
   stack      : ["Node.js", "React", "Python", "FastAPI", "AWS", "TensorFlow", "Redis"],
   interests  : ["Local LLMs", "Computer Vision", "Distributed Systems", "Web3"],
-  contact    : "rahulkumar.git123@gmail.com  Â·  +91 8951690899",
-  status     : "ðŸŸ¢ Open to full-time roles â€” let's talk",
+  contact    : "rahulkumar.git123@gmail.com  ·  +91 8951690899",
+  status     : "🟢 Open to full-time roles — let's talk",
   funFact    : "Turned a weekend project into a full AWS-backed AI platform. Twice.",
 };
 ```
 
-> I care about building things that are genuinely useful â€” not just impressive in a demo.
+> I care about building things that are genuinely useful — not just impressive in a demo.
 > Clean APIs, thoughtful UIs, AI that actually works. That's the standard.
 
 <br/>
 
 ---
 
-## ðŸ”­ Currently Building
+## 🔭 Currently Building
 
 <br/>
 
@@ -78,10 +84,10 @@ const rahul: Developer = {
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/â—%20ACTIVE-22c55e?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/●%20ACTIVE-22c55e?style=flat-square&labelColor=0d1117" />
 <br/><br/>
 
-**ðŸ“¸ PhotoVault**
+**📸 PhotoVault**
 
 Full-stack photo platform with AI-powered face & label detection via AWS Rekognition, BullMQ async pipeline, S3 storage, Redis caching, and editorial-grade UI
 
@@ -99,12 +105,12 @@ Full-stack photo platform with AI-powered face & label detection via AWS Rekogni
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/â—%20IN%20PROGRESS-f59e0b?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/●%20IN%20PROGRESS-f59e0b?style=flat-square&labelColor=0d1117" />
 <br/><br/>
 
-**ðŸ”¥ StreakFlow**
+**🔥 StreakFlow**
 
-React Native habit tracker with streak-based motivation, local-first architecture, custom habit scheduling, and daily push reminders â€” built for real consistency
+React Native habit tracker with streak-based motivation, local-first architecture, custom habit scheduling, and daily push reminders — built for real consistency
 
 ![React Native](https://img.shields.io/badge/RN-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -118,12 +124,12 @@ React Native habit tracker with streak-based motivation, local-first architectur
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/â—%20LIVE%20ON%20EC2-0891b2?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/●%20LIVE%20ON%20EC2-0891b2?style=flat-square&labelColor=0d1117" />
 <br/><br/>
 
-**ðŸ¤– JARVIS AI**
+**🤖 JARVIS AI**
 
-Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice transcription, image analysis, web search, and smart home control via MQTT. Zero API costs.
+Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcription, image analysis, web search, and smart home control via MQTT. Zero API costs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -143,7 +149,7 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸš€ Project Portfolio
+## 🚀 Project Portfolio
 
 <br/>
 
@@ -151,16 +157,16 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 | | Project | What it does | Stack |
 |:--:|:--|:--|:--|
-| ðŸ–¼ï¸ | [**PhotoVault**](https://github.com/rahulkumargit1/photovault) | AI-powered photo manager â€” Rekognition, async queues, S3, editorial UI | `Node.js` `React` `AWS` `PostgreSQL` `Redis` |
-| ðŸ¤– | [**VIRE**](https://github.com/rahulkumargit1/VIRE) | AI virtual interviewer & resume evaluator with real feedback | `Python` `FastAPI` `ML` |
-| ðŸ“ˆ | [**Crypto Analysis Suite**](https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite) | Real-time crypto dashboard with trend detection & portfolio analytics | `Python` `Pandas` `Plotly` |
-| ðŸ©º | [**Acne Classification**](https://github.com/rahulkumargit1/acne-classification-system) | CV model classifying acne severity from skin images | `TensorFlow` `OpenCV` |
-| ðŸ“‰ | [**Telco Churn Prediction**](https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis) | End-to-end ML pipeline â€” feature engineering & churn scoring | `Scikit-learn` `Pandas` |
-| â›“ï¸ | [**Krypt**](https://github.com/rahulkumargit1/Krypt) | Web3 Ethereum transaction app with smart contract integration | `React` `Solidity` `Hardhat` |
-| ðŸ¦¾ | [**Robotic Arm**](https://github.com/rahulkumargit1/RoboticArmProject) | Real-time gesture-controlled robotic arm via computer vision | `Python` `OpenCV` `C++` |
-| ðŸ¦ | [**Loan Approval**](https://github.com/rahulkumargit1/Loan-Approval-Prediction-and-Analysis) | Classification pipeline for loan outcome prediction | `Scikit-learn` `Python` |
-| âš½ | [**FIFA Rating**](https://github.com/rahulkumargit1/FIFA-Player-Rating-Prediction-with-Linear-Regression) | Linear regression model predicting player ratings from stats | `Python` `NumPy` |
-| âœ… | [**Sync Minimal**](https://github.com/rahulkumargit1/Sync-Minimal-App) | Clean, minimal productivity sync app | `React` `Node.js` |
+| 🖼️ | [**PhotoVault**](https://github.com/rahulkumargit1/photovault) | AI-powered photo manager — Rekognition, async queues, S3, editorial UI | `Node.js` `React` `AWS` `PostgreSQL` `Redis` |
+| 🤖 | [**VIRE**](https://github.com/rahulkumargit1/VIRE) | AI virtual interviewer & resume evaluator with real feedback | `Python` `FastAPI` `ML` |
+| 📈 | [**Crypto Analysis Suite**](https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite) | Real-time crypto dashboard with trend detection & portfolio analytics | `Python` `Pandas` `Plotly` |
+| 🩺 | [**Acne Classification**](https://github.com/rahulkumargit1/acne-classification-system) | CV model classifying acne severity from skin images | `TensorFlow` `OpenCV` |
+| 📉 | [**Telco Churn Prediction**](https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis) | End-to-end ML pipeline — feature engineering & churn scoring | `Scikit-learn` `Pandas` |
+| ⛓️ | [**Krypt**](https://github.com/rahulkumargit1/Krypt) | Web3 Ethereum transaction app with smart contract integration | `React` `Solidity` `Hardhat` |
+| 🦾 | [**Robotic Arm**](https://github.com/rahulkumargit1/RoboticArmProject) | Real-time gesture-controlled robotic arm via computer vision | `Python` `OpenCV` `C++` |
+| 🏦 | [**Loan Approval**](https://github.com/rahulkumargit1/Loan-Approval-Prediction-and-Analysis) | Classification pipeline for loan outcome prediction | `Scikit-learn` `Python` |
+| ⚽ | [**FIFA Rating**](https://github.com/rahulkumargit1/FIFA-Player-Rating-Prediction-with-Linear-Regression) | Linear regression model predicting player ratings from stats | `Python` `NumPy` |
+| ✅ | [**Sync Minimal**](https://github.com/rahulkumargit1/Sync-Minimal-App) | Clean, minimal productivity sync app | `React` `Node.js` |
 
 </div>
 
@@ -179,7 +185,7 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <br/>
 
@@ -235,7 +241,7 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <br/>
 
@@ -280,7 +286,7 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸ… Certifications
+## 🏅 Certifications
 
 <br/>
 
@@ -288,11 +294,11 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 | | Certificate | Issuer | |
 |:--:|:--|:--|:--:|
-| ðŸ§  | Career Essentials in Generative AI | Microsoft & LinkedIn | [â†’ Verify](https://www.linkedin.com/learning/certificates/fbdc20aadfbld35ddc46c8730fd6e56ff5128255dbfe07dc5a50fd606c65308) |
-| ðŸ“Š | Google Data Analytics Professional Certificate | Google / Coursera | [â†’ Verify](https://www.coursera.org/account/accomplishments/professional-cert/GK6DRXDWP3OF) |
-| â˜ï¸ | AWS Fundamentals Specialization | AWS / Coursera | [â†’ Verify](https://coursera.org/verify/specialization/PQRWJM0NMUPE) |
-| ðŸ | Python for Machine Learning | Great Learning | [â†’ Verify](https://verify.mygreatlearning.com/VFIKVOSM) |
-| ðŸ“‘ | Accounting Fundamentals | TCS iON | TCS Portal |
+| 🧠 | Career Essentials in Generative AI | Microsoft & LinkedIn | [→ Verify](https://www.linkedin.com/learning/certificates/fbdc20aadfbld35ddc46c8730fd6e56ff5128255dbfe07dc5a50fd606c65308) |
+| 📊 | Google Data Analytics Professional Certificate | Google / Coursera | [→ Verify](https://www.coursera.org/account/accomplishments/professional-cert/GK6DRXDWP3OF) |
+| ☁️ | AWS Fundamentals Specialization | AWS / Coursera | [→ Verify](https://coursera.org/verify/specialization/PQRWJM0NMUPE) |
+| 🐍 | Python for Machine Learning | Great Learning | [→ Verify](https://verify.mygreatlearning.com/VFIKVOSM) |
+| 📑 | Accounting Fundamentals | TCS iON | TCS Portal |
 
 </div>
 
@@ -300,7 +306,7 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸ’¬ Dev Quote
+## 💬 Dev Quote
 
 <br/>
 
@@ -312,14 +318,14 @@ Self-hosted WhatsApp AI assistant â€” Ollama llama3.2 on AWS EC2, voice tra
 
 ---
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 <br/>
 
 <div align="center">
 
 I'm actively looking for full-time roles in **Full-Stack**, **AI/ML**, or **Cloud Engineering**.<br/>
-If you're building something interesting or have a role that fits â€” my inbox is open.
+If you're building something interesting or have a role that fits — my inbox is open.
 
 <br/>
 
@@ -339,9 +345,9 @@ If you're building something interesting or have a role that fits â€” my in
 
 <div align="center">
 
-**ðŸŒ See everything I've built**
+**🌐 See everything I've built**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20â†’-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0630)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20→-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0630)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
 
 </div>
 
@@ -356,4 +362,3 @@ If you're building something interesting or have a role that fits â€” my in
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahulkumargit1/rahulkumargit1/main/Assets/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
-
