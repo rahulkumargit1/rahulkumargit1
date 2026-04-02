@@ -159,10 +159,11 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 |:--:|:--|:--|:--|
 | 🖼️ | [**PhotoVault**](https://github.com/rahulkumargit1/photovault) | AI-powered photo manager — Rekognition, async queues, S3, editorial UI | `Node.js` `React` `AWS` `PostgreSQL` `Redis` |
 | 🤖 | [**VIRE**](https://github.com/rahulkumargit1/VIRE) | AI virtual interviewer & resume evaluator with real feedback | `Python` `FastAPI` `ML` |
+| 📴 | [**PayOffline**](https://github.com/rahulkumargit1/PayOffline) | Send money offline via India's NPCI *99# UPI system | `Kotlin` `Jetpack Compose` `MVVM` |
 | 📈 | [**Crypto Analysis Suite**](https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite) | Real-time crypto dashboard with trend detection & portfolio analytics | `Python` `Pandas` `Plotly` |
 | 🩺 | [**Acne Classification**](https://github.com/rahulkumargit1/acne-classification-system) | CV model classifying acne severity from skin images | `TensorFlow` `OpenCV` |
 | 📉 | [**Telco Churn Prediction**](https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis) | End-to-end ML pipeline — feature engineering & churn scoring | `Scikit-learn` `Pandas` |
-| ⛓️ | [**Krypt**](https://github.com/rahulkumargit1/Krypt) | Web3 Ethereum transaction app with smart contract integration | `React` `Solidity` `Hardhat` |
+| 🔐 | [**Krypt**](https://github.com/rahulkumargit1/Krypt) | Privacy-first, zero-knowledge End-to-End Encrypted messenger | `Android` `FastAPI` `WebRTC` |
 | 🦾 | [**Robotic Arm**](https://github.com/rahulkumargit1/RoboticArmProject) | Real-time gesture-controlled robotic arm via computer vision | `Python` `OpenCV` `C++` |
 | 🏦 | [**Loan Approval**](https://github.com/rahulkumargit1/Loan-Approval-Prediction-and-Analysis) | Classification pipeline for loan outcome prediction | `Scikit-learn` `Python` |
 | ⚽ | [**FIFA Rating**](https://github.com/rahulkumargit1/FIFA-Player-Rating-Prediction-with-Linear-Regression) | Linear regression model predicting player ratings from stats | `Python` `NumPy` |
@@ -193,9 +194,9 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <b><a href="https://github.com/rahulkumargit1/Krypt" style="color: #a78bfa">⛓️ Krypt</a></b><br/>
+      <b><a href="https://github.com/rahulkumargit1/Krypt" style="color: #a78bfa">🔐 Krypt</a></b><br/>
       <br/>
-      <p>Web3 Ethereum transaction app with smart contract integration</p>
+      <p>Privacy-first, zero-knowledge End-to-End Encrypted messenger</p>
       <img src="https://img.shields.io/github/stars/rahulkumargit1/Krypt?style=social" />
       <br/><br/>
     </td>
@@ -203,10 +204,10 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
   <tr>
     <td width="33%" align="center" valign="top">
       <br/>
-      <b><a href="https://github.com/rahulkumargit1/acne-classification-system" style="color: #a78bfa">🩺 Acne Classification</a></b><br/>
+      <b><a href="https://github.com/rahulkumargit1/PayOffline" style="color: #a78bfa">📴 PayOffline</a></b><br/>
       <br/>
-      <p>Computer Vision model classifying acne severity from images</p>
-      <img src="https://img.shields.io/github/stars/rahulkumargit1/acne-classification-system?style=social" />
+      <p>USSD *99# Wrapper for India: Send money offline via NPCI</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/PayOffline?style=social" />
       <br/><br/>
     </td>
     <td width="33%" align="center" valign="top">
