@@ -173,15 +173,61 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
-  <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
-  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
-  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
-  <a href="https://github.com/rahulkumargit1/photovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
-  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/VIRE" style="color: #a78bfa">🤖 VIRE</a></b><br/>
+      <br/>
+      <p>AI virtual interviewer & resume evaluator with real feedback</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/VIRE?style=social" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite" style="color: #a78bfa">📈 Crypto Analysis Suite</a></b><br/>
+      <br/>
+      <p>Real-time crypto dashboard with trend detection & analytics</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/Cryptocurrency-Analysis-Suite?style=social" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/Krypt" style="color: #a78bfa">⛓️ Krypt</a></b><br/>
+      <br/>
+      <p>Web3 Ethereum transaction app with smart contract integration</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/Krypt?style=social" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/acne-classification-system" style="color: #a78bfa">🩺 Acne Classification</a></b><br/>
+      <br/>
+      <p>Computer Vision model classifying acne severity from images</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/acne-classification-system?style=social" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/photovault" style="color: #a78bfa">🖼️ PhotoVault</a></b><br/>
+      <br/>
+      <p>AI-powered photo manager — Rekognition, async queues, S3</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/photovault?style=social" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b><a href="https://github.com/rahulkumargit1/RoboticArmProject" style="color: #a78bfa">🦾 Robotic Arm</a></b><br/>
+      <br/>
+      <p>Real-time gesture-controlled robotic arm via CV and C++</p>
+      <img src="https://img.shields.io/github/stars/rahulkumargit1/RoboticArmProject?style=social" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
-
-<br/>
 
 ---
 
@@ -245,11 +291,7 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <br/>
 
-<!-- Row 1: Stats + Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage&cache_seconds=86400&v=2" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400&v=2" height="165" />
-</div>
+<!-- Row 1: Profile Summary Cards (Stable Service) -->
 
 <br/>
 
