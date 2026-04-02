@@ -396,7 +396,8 @@ If you're building something interesting or have a role that fits — my inbox i
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:0d0630,60:1a0a4a,100:03001C&height=140&section=footer&text=If+my+work+caught+your+eye+%E2%80%94+let%27s+talk.&fontSize=18&fontColor=7c6fcd&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- SNAKE -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=5b21b6&point=0891b2&area=true&area_color=1a0a4a" width="100%" alt="contribution graph" />
+  <img src="https://raw.githubusercontent.com/rahulkumargit1/rahulkumargit1/main/Assets/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
+
