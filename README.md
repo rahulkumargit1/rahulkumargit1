@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-0a4645326)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumar.git123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](https://master.d13kkfmbue8ihx.amplifyapp.com/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarRahul75023)
 [![Profile Views](https://komarev.com/ghpvc/?username=rahulkumargit1&style=for-the-badge&color=5b21b6&label=VIEWS)](https://github.com/rahulkumargit1)
 
@@ -369,7 +369,7 @@ If you're building something interesting or have a role that fits — my inbox i
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-0a4645326)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumar.git123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](https://master.d13kkfmbue8ihx.amplifyapp.com/)
 
 <br/>
 
@@ -385,7 +385,7 @@ If you're building something interesting or have a role that fits — my inbox i
 
 **🌐 See everything I've built**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20→-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0630)](http://rahulkumarportfolio2025.s3-website-us-east-1.amazonaws.com/website/index.html)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20→-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0630)](https://master.d13kkfmbue8ihx.amplifyapp.com/)
 
 </div>
 

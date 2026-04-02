@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 12AM UTC every day
+    - cron: "0 0 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Also run on every push to main to keep it fresh
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rahulkumargit1
+          outputs: |
+            Assets/github-contribution-grid-snake.svg?color_snake=purple&color_dots=#161b22,#262f3d,#354359,#455874,#5b21b6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push Snake SVG to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): auto-generate contribution snake svg [skip ci]"
+          file_pattern: Assets/github-contribution-grid-snake.svg
