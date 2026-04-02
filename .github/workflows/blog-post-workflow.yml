@@ -1,0 +1,27 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Pull in dev.to/medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # REPLACE this comma-separated list with your actual RSS feed URLs if you write!
+          # Example: "https://dev.to/feed/your-username,https://medium.com/feed/@your-username"
+          feed_list: "https://dev.to/feed/rahulkumargit1"
