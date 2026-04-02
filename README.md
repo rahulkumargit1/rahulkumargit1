@@ -320,12 +320,7 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <br/>
 
-<!-- Row 5: Trophy case -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargit1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
-</div>
 
-<br/>
 
 ---
 
