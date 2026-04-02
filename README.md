@@ -173,12 +173,12 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Telco-Customer-Churn-Prediction-and-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/photovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
 </div>
 
 <br/>
@@ -247,15 +247,15 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <!-- Row 1: Stats + Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="165" />
 </div>
 
 <br/>
 
 <!-- Row 2: Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=0891b2&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=a78bfa" width="62%" />
+  <img src="https://streak-stats.demolab.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=0891b2&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=a78bfa" width="62%" />
 </div>
 
 <br/>
@@ -277,9 +277,9 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <br/>
 
-<!-- Row 5: Activity graph -->
+<!-- Row 5: Trophy case -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=5b21b6&point=0891b2&area=true&area_color=1a0a4a" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargit1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
 </div>
 
 <br/>
@@ -358,7 +358,7 @@ If you're building something interesting or have a role that fits — my inbox i
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:0d0630,60:1a0a4a,100:03001C&height=140&section=footer&text=If+my+work+caught+your+eye+%E2%80%94+let%27s+talk.&fontSize=18&fontColor=7c6fcd&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
-<!-- SNAKE -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulkumargit1/rahulkumargit1/main/Assets/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=5b21b6&point=0891b2&area=true&area_color=1a0a4a" width="100%" alt="contribution graph" />
 </div>
