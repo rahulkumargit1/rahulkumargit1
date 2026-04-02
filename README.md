@@ -173,12 +173,12 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
-  <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
-  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
-  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
-  <a href="https://github.com/rahulkumargit1/photovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
-  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400" /></a>
+  <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+  <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+  <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+  <a href="https://github.com/rahulkumargit1/photovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
+  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&cache_seconds=86400&v=2" /></a>
 </div>
 
 <br/>
@@ -247,8 +247,8 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <!-- Row 1: Stats + Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage&cache_seconds=86400&v=2" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400&v=2" height="165" />
 </div>
 
 <br/>
