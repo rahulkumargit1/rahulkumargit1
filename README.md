@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="starry_night_banner.png" width="100%" alt="Starry Night Banner" />
+  <img src="starry_night_banner.jpg" width="100%" alt="Starry Night Banner" />
 </div>
 
 <br/>
@@ -173,12 +173,12 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rahulkumargit1/photovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
   <a href="https://github.com/rahulkumargit1/VIRE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
   <a href="https://github.com/rahulkumargit1/Cryptocurrency-Analysis-Suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Cryptocurrency-Analysis-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Telco-Customer-Churn-Prediction-and-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
-  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
   <a href="https://github.com/rahulkumargit1/Krypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Krypt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/acne-classification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=acne-classification-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/Telco-Customer-Churn-Prediction-and-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=Telco-Customer-Churn-Prediction-and-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
+  <a href="https://github.com/rahulkumargit1/RoboticArmProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=RoboticArmProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0891b2&text_color=c9d1d9" /></a>
 </div>
 
 <br/>
