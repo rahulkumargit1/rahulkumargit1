@@ -323,7 +323,6 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 ---
 
 <!-- Row 2: Streak -->
----
 
 ## 📈 Activity & Stats
 
