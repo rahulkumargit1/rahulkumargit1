@@ -288,24 +288,20 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
-## ⏱️ Coding Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <!-- WakaTime will automatically inject stats here based on the workflow -->
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargit1&theme=tokyonight&no-bg=true&no-frame=true&column=7" width="100%" />
 </div>
 
 <br/>
 
 ---
 
-## 📝 Latest Articles
+## 📅 Activity Graph
 
 <div align="center">
-  <!-- Blog post workflow will automatically inject articles here -->
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rahulkumargit1" width="100%" />
 </div>
 
 <br/>
