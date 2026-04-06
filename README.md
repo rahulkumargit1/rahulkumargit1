@@ -288,6 +288,40 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
+## 💎 Professional Expertise
+
+<div align="center">
+
+**Development Progress**
+![](https://geps.dev/progress/91?dangerColor=5b21b6&warningColor=0891b2&successColor=5b21b6)
+
+**Backend Mastery**
+![](https://geps.dev/progress/85?dangerColor=0891b2&warningColor=5b21b6&successColor=0891b2)
+
+**AI Implementation**
+![](https://geps.dev/progress/78?dangerColor=5b21b6&warningColor=0891b2&successColor=5b21b6)
+
+</div>
+
+<br/>
+
+## 🚦 Project Status
+
+<div align="center">
+
+| Project | Status | Version | Tech |
+| :--- | :--- | :---: | :--- |
+| **PhotoVault** | `🟢 STABLE` | `v1.2.0` | `Node.js` `AWS` |
+| **JARVIS AI** | `🟡 ACTIVE` | `v0.9.5` | `Python` `EC2` |
+| **StreakFlow** | `🟠 DEVELOPMENT` | `v0.4.5` | `React Native` |
+| **VIRE** | `🟢 LIVE` | `v1.0.2` | `FastAPI` `ML` |
+
+</div>
+
+<br/>
+
+---
+
 <!-- Row 2: Streak -->
 ---
 
