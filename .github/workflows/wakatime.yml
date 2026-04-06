@@ -2,8 +2,8 @@ name: WakaTime Status Update
 
 on:
   schedule:
-    # Runs at 12AM UTC every day
-    - cron: '0 0 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -21,3 +21,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: "true"
+          SECTION_NAME: "waka"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: "10"
+          SHOW_TIME: "true"
+          SHOW_MASKED_TIME: "true"
+          STOP_AT_OTHER: "false"

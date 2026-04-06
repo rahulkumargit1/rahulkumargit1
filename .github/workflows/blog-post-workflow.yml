@@ -1,9 +1,9 @@
 name: Latest Blog Post Workflow
 
 on:
-  # schedule:
-    # Runs every day at midnight (Temporarily disabled until you start a blog to prevent 404 errors!)
-    # - cron: '0 0 * * *'
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -22,6 +22,6 @@ jobs:
       - name: Pull in dev.to/medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # REPLACE this comma-separated list with your actual RSS feed URLs if you write!
-          # Example: "https://dev.to/feed/your-username,https://medium.com/feed/@your-username"
-          feed_list: "https://dev.to/feed/rahulkumargit1"
+          feed_list: "https://dev.to/feed/rahulkumargit1,https://medium.com/feed/@rahulkumargit1"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Updated with latest blog posts [skip ci]"
