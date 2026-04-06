@@ -288,30 +288,13 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
-## 📊 Overall Stats
+## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyonight" width="100%" />
-</div>
-
-<br/>
-
----
-
----
-
-## 📊 GitHub Stats
 
 <br/>
 
@@ -320,16 +303,28 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 <br/>
 
 <!-- Row 2: Streak -->
+---
+
+## 📈 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rahulkumargit1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=0891b2&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=a78bfa" width="62%" />
 </div>
 
 <br/>
 
-<!-- Row 3: Productive Time & Most Commit (Using reliable alternative) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true" />
+
+![Stars](https://img.shields.io/github/stars/rahulkumargit1?style=for-the-badge&logo=github&color=5b21b6&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/rahulkumargit1?style=for-the-badge&logo=github&color=0891b2&labelColor=0d1117)
+![Repo Count](https://img.shields.io/github/repos/public/rahulkumargit1?style=for-the-badge&logo=git&color=a78bfa&labelColor=0d1117)
+
 </div>
 
 <br/>
