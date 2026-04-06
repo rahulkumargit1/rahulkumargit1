@@ -288,23 +288,26 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Overall Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargit1&theme=tokyonight&no-bg=true&no-frame=true&column=7" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargit1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargit1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" />
 </div>
 
 <br/>
 
 ---
 
-## 📅 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rahulkumargit1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyonight" width="100%" />
 </div>
 
 <br/>
+
+---
 
 ---
 
@@ -323,19 +326,10 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 <br/>
 
-<!-- Row 3: Summary Cards (4 detailed cards) -->
+<!-- Row 3: Productive Time & Most Commit (Using reliable alternative) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumargit1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumargit1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumargit1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumargit1&theme=tokyonight&utcOffset=+5.5" />
-</div>
-
-<br/>
-
-<!-- Row 4: Full profile details bar -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumargit1&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=photovault&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumargit1&repo=VIRE&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
