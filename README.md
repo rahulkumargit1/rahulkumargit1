@@ -288,20 +288,6 @@ Self-hosted WhatsApp AI assistant — Ollama llama3.2 on AWS EC2, voice transcri
 
 ---
 
-## 📈 Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumargit1&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<br/>
-
-<!-- Row 1: Profile Summary Cards (Stable Service) -->
-
-<br/>
-
 <!-- Row 2: Streak -->
 ---
 
